@@ -1,0 +1,2 @@
+# Blockchain-based-Academic-Credentials-Verification-System-
+CertiChain is a blockchain-based academic credential verification system. Universities issue credentials as immutable blockchain records. Students view their credentials, while employers verify authenticity through a public portal. The system uses Node.js, Express, React, and a private blockchain ledger for secure and tamper-proof verification.
